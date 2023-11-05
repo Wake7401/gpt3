@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# GPT3
+# Figma design
+https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&mode=dev
+# Live demo
+https://elegant-dasik-9847bf.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
