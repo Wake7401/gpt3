@@ -1,8 +1,13 @@
-# GPT3
+![image](https://github.com/Wake7401/gpt3/assets/91364482/0bc6f87d-b9b8-497e-8f1b-48b59cc4775c)# GPT3
 # Figma design
 https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&mode=dev
 # Live demo
 https://elegant-dasik-9847bf.netlify.app/
+![image](https://github.com/Wake7401/gpt3/assets/91364482/ea57ae8c-8feb-445f-9777-2b9134bcd6fc)
+
+
+
+
 
 
 
